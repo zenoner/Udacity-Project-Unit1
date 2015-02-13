@@ -1,0 +1,173 @@
+<Html>
+  <head>
+    <title>Seiji's notes'</title>
+    <style>
+      body{
+        font-family:helvetica;
+      }
+      
+      .TOC {
+        list-style:none;
+        
+      }
+      
+      ul {
+        list-style-type: none;
+      }
+      
+      h1{
+        text-align:center
+        
+      }
+      
+      .lesson {
+        background-color:#004c99;
+        border-radius: 20px;
+        color: white;
+      	padding: 10px;
+	      margin: 10px auto;
+      }
+      
+      h2{
+        margin:10px;
+      }
+      
+      .Part1 {
+        color:white;
+        font-size:30
+      }
+      
+      .PartBox {
+        background-color:#66b2ff;
+      }
+      
+      .ConcertBox {
+    background-color: #DFEAF1;
+  	padding: 4px;
+  	margin: 10px;
+  	border-radius: 4px;
+  	color: black;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="TOC">
+    <h1>Table of Content</h1>
+    <ul>
+      <li>Part 1: Understanding of Structure Documents</li>
+    <ul>
+      <li>...</li>
+      <li>...</li>
+      <li>...</li>
+    </ul>
+      <li>Part 2: The Importance of Avoiding Repetition</li>
+    <ul>
+      <li>....</li>
+      <li>....</li>
+      <li>....</li>
+    </ul>
+      <li>Part 3: Basic HTML and CSS Knowledge</li>
+    <ul>
+      <li>....</li>
+      <li>....</li>
+      <li>....</li>
+    </ul>
+    </ul>
+  </div>
+  <h1>Important Concepts</h1>
+  <div class="lesson"> 
+    <h2>Part 1: Understanding of Structure Documents</h2>
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          A.
+    </div>
+    <div class="Description">
+      <p>Testkjdjfi </p>
+    </div>
+    </div>
+
+    
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          B.
+    </div>
+    <div class="Description">
+      <p>kjkjdf </p>
+    </div>
+    </div>
+    
+     <div class="ConcertBox">
+    <div class="Concert-Title">
+          C.
+    </div>
+    <div class="Description">
+      <p>dfdfdfd </p>
+    </div>
+    </div>
+      
+      
+    </div> 
+    
+  <div class="lesson"> 
+    <h2>Part 2: The Importance of Avoiding Repetition </h2>
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          A.
+    </div>
+    <div class="Description">
+      <p>uhuhuhhjhj </p>
+    </div>
+    </div>
+  
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          B.
+    </div>
+    <div class="Description">
+      <p>kjkjdf </p>
+    </div>
+    </div>
+    
+     <div class="ConcertBox">
+    <div class="Concert-Title">
+          C.
+    </div>
+    <div class="Description">
+      <p>dfdfdfd </p>
+    </div>
+    </div> 
+  </div>
+  
+  <div class="lesson"> 
+    <h2>Part 3: Basic HTML and CSS knowledge</h2>
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          A.
+    </div>
+    <div class="Description">
+      <p>uhuhuhhjhj </p>
+    </div>
+    </div>
+  
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          B.
+    </div>
+    <div class="Description">
+      <p>kjkjdf </p>
+    </div>
+    </div>
+    
+     <div class="ConcertBox">
+    <div class="Concert-Title">
+          C.
+    </div>
+    <div class="Description">
+      <p>dfdfdfd </p>
+    </div>
+    </div>
+    
+  </div> <!-- Close DIV -->
+
+  </body>
+</Html>
